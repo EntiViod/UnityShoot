@@ -427,7 +427,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/FPS/Art/Materials/Level
   m_LastFoldersGridSize: 90
-  m_LastProjectPath: C:\Users\Administrator.S2-00\Downloads\UnityShooter
+  m_LastProjectPath: C:\Users\Weaverr\AppData\Local\Temp\bc749690f0856ca49950812202271c79
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
